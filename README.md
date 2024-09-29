@@ -16,6 +16,14 @@ If you want to contribute to this library of knowledge please create proper PR (
 
 _Note:_ Currently this is an early version of the library. I recommend PR after first official release. 
 
+![](https://i.imgur.com/waxVImv.png)
+
+# Roadmaps are now interactive, you can click the nodes to read more about the topics.
+
+### [View all Roadmaps](https://github.com/nholuongut/all-roadmaps) &nbsp;&middot;&nbsp; [Best Practices](https://github.com/nholuongut/all-roadmaps/blob/main/public/best-practices/) &nbsp;&middot;&nbsp; [Questions](https://www.linkedin.com/in/nholuong/)
+
+![](https://i.imgur.com/waxVImv.png)
+
 **DevSecOps library info:** 
 
 ![stars](https://img.shields.io/github/stars/sottlmarek/DevSecOps?style=for-the-badge)
@@ -408,20 +416,18 @@ Here are the other links and resources that do not fit in any previous category.
 | **Mobile security framework** | [https://github.com/MobSF/Mobile-Security-Framework-MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) | SAST, DAST and pentesting tool for mobile apps |![MobSF](https://img.shields.io/github/stars/MobSF/Mobile-Security-Framework-MobSF?style=for-the-badge) |
 | **Legitify** | [https://github.com/Legit-Labs/legitify](https://github.com/Legit-Labs/legitify) | Detect and remediate misconfigurations and security risks across all your GitHub and GitLab assets  |![Legitify](https://img.shields.io/github/stars/Legit-Labs/legitify?style=for-the-badge) |
 
-Training - https://www.practical-devsecops.com/devsecops-university/ 
 
-DevSecOps videos - [Hackitect playground](https://www.youtube.com/channel/UCy0S_HftNM7Fy0ksEOUHc-Q)
-
-# License
-MIT license
-
-Marek Šottl (c) 2022
-
-### [Contact an Author]
+I'm are always open to your feedback.  Please contact as bellow information:
+### [Contact ]
 * [Name: nho Luong]
 * [Skype](luongutnho_skype)
 * [Github](https://github.com/nholuongut/)
 * [Linkedin](https://www.linkedin.com/in/nholuong/)
-* [Email Address](luongutnho@hotmail.com) 
+* [Email Address](luongutnho@hotmail.com)
 
+![](https://i.imgur.com/waxVImv.png)
+![](bitfield.png)
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/nholuong)
+
+# License
+* Nho Luong (c). All Rights Reserved.
